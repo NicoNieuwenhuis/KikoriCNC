@@ -2,6 +2,7 @@
 
 # Kikori CNC Open Source Program
 The kikori is an open source entry-level machine for small businesses.
+Read ReadMe.txt for instructions on how to build.
 
 ![Kikori CNC](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/d230969f01224ac890a173940493015e_original.jpg)
 
