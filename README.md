@@ -12,6 +12,8 @@ Can be used with:
 http://linuxcnc.org/
 
 
+Images:
+
 ![Kikori CNC1](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/8462901929_88dae5f8f3.jpg)
 
 ![Kikori CNC2](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/6797242019_4d58eb33b4_n.jpg)
