@@ -1,4 +1,4 @@
-# #Kikoricnc #Open Source Hardware #Hardware Hackers #Made in the Neighborhood
+# #KikoriCNC #CNC #Open Source Hardware #Hardware Hackers #Made in the Neighborhood
 
 # Kikori CNC Open Source Program
 The kikori is an open source entry-level machine for small businesses.
