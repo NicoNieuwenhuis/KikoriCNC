@@ -1,8 +1,8 @@
-# #Kikoricnc #Open sourse hardware #Hardware hackers #Made in the neighborhood
+# #Kikoricnc #Open Sourse Hardware #Hardware Hackers #Made in the Neighborhood
 
 Kikori CNC Open Source Program
 
-![alt text](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/d230969f01224ac890a173940493015e_original.jpg)
+![Kikori CNC](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/d230969f01224ac890a173940493015e_original.jpg)
 
 
 As Found on http://www.sindrianarts.com
@@ -10,6 +10,15 @@ You van visit the original site on https://web.archive.org/web/20150306220402/ht
 
 Can be used with:
 http://linuxcnc.org/
+
+
+![Kikori CNC1](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/8462901929_88dae5f8f3.jpg)
+
+![Kikori CNC2](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/6797242019_4d58eb33b4_n.jpg)
+
+![Kikori CNC3](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/8464004728_330818683c.jpg)
+
+
 
 License:
 
