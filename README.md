@@ -1,4 +1,4 @@
-# #Kikoricnc #Open Sourse Hardware #Hardware Hackers #Made in the Neighborhood
+# #Kikoricnc #Open Source Hardware #Hardware Hackers #Made in the Neighborhood
 
 Kikori CNC Open Source Program
 
