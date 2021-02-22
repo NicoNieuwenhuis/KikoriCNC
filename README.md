@@ -1,6 +1,12 @@
-# Kikoricnc
+# #Kikoricnc #Open sourse hardware #Hardware hackers #Made in the neighborhood
 
 Kikori CNC Open Source Program
+
+As Found on http://www.sindrianarts.com
+You van visit the original site on https://web.archive.org/web/20150306220402/http://www.sindrianarts.com/
+
+Can be used with:
+http://linuxcnc.org/
 
 License:
 
