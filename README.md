@@ -2,6 +2,9 @@
 
 Kikori CNC Open Source Program
 
+![alt text](https://raw.githubusercontent.com/NicoNieuwenhuis/Kikoricnc/main/kikori%20img/d230969f01224ac890a173940493015e_original.jpg)
+
+
 As Found on http://www.sindrianarts.com
 You van visit the original site on https://web.archive.org/web/20150306220402/http://www.sindrianarts.com/
 
